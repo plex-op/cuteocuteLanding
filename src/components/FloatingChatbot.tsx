@@ -9,7 +9,7 @@ type FormData = {
   product: string;
 };
 
-export default function FloatingQuote() {
+export default function FloatingChatbot() {
   const [open, setOpen] = useState(false);
   const [formData, setFormData] = useState<FormData>({
     name: "",

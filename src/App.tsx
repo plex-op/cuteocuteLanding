@@ -5,8 +5,8 @@ import Products from './components/Products';
 import Testimonials from './components/Testimonials';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import FloatingChatbot from './components/FloatingChatBot';
 import MobileStickyBar from './components/MobileStickyBar';
+import FloatingChatbot from './components/FloatingChatbot';
 
 function App() {
   return (
